@@ -1,0 +1,21 @@
+openapi: "3.0.1"
+info:
+  title: "dev-textract-service-dan-zlobin"
+  version: "2024-08-02T11:59:41Z"
+servers:
+- url: "https://1nh5lgy3ug.execute-api.us-east-1.amazonaws.com/{basePath}"
+  variables:
+    basePath:
+      default: "dev"
+paths:
+  /files:
+    post: {}
+  /files/{file_id}:
+    get:
+      parameters:
+      - name: "file_id"
+        in: "path"
+        required: true
+        schema:
+          type: "string"
+components: {}
