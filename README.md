@@ -2,8 +2,8 @@
 
 **URL:**
 
-- https://suwlib0ayk.execute-api.us-east-1.amazonaws.com/dev/files
-- https://suwlib0ayk.execute-api.us-east-1.amazonaws.com/dev/files/{file_id}
+- https://1nh5lgy3ug.execute-api.us-east-1.amazonaws.com/dev/files
+- https://1nh5lgy3ug.execute-api.us-east-1.amazonaws.com/dev/files/{file_id}
 
 **How to deploy:**
 
